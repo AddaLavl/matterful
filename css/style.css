@@ -337,4 +337,46 @@ color: #333;
 
 
 }
+.social__1
+.social__9 {
+    max-width: 100;
+    height: 215px;
+    align-self: flex-end;
+}
+.social__2 {
+    max-width: 100%;
+}
+.social__3,
+.social__6 {
+max-width: 100%;
+height: 348px;
+align-self: flex-end;
+}
+
+.social__4 {
+    max-width: 100%;
+    height: 423px;
+    align-self: flex-end;
+}
+.social__5,
+.social__8 {
+    max-width: 100%;
+    height: 292px;
+    align-self: flex-end;
+}
+.social-pictures {
+    padding-bottom: 60%;
+}
+.social-container2 {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+    position: relative;
+    background: #fff;
+    padding:15px 0;
+}
+.s
+    
+
 
